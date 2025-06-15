@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5_MOCs/Physics.md",
+                "file": "1_Inbox/Inbox.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physics"
+              "title": "Inbox"
             }
           }
         ]
@@ -171,6 +171,7 @@
   },
   "active": "1155cee52b9d34c6",
   "lastOpenFiles": [
+    "5_MOCs/Physics.md",
     "2_Sandbox/numerical_analysis/analysis_II/sandbox/test_1.ipynb",
     "2_Sandbox/numerical_analysis/analysis_II/sandbox/gaussian_algorithm.ipynb",
     "2_Sandbox/numerical_analysis/analysis_II/sandbox",
@@ -181,7 +182,6 @@
     "2_Sandbox/numerical_analysis/analysis_II/homework/hw_5.ipynb",
     "2_Sandbox/numerical_analysis/analysis_II/homework/hw_4.ipynb",
     "2_Sandbox/numerical_analysis/analysis_II/homework/hw_3.ipynb",
-    "2_Sandbox/numerical_analysis/analysis_II/homework/hw_2.ipynb",
     "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Matrices_Pt2.jpg",
     "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Matrices.jpg",
     "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Layout.jpg",
@@ -204,9 +204,8 @@
     "My_Obsidian/LinkingTips.md",
     "My_Obsidian/Themes.md",
     "3_Areas/Areas.md",
-    "1_Daily/Daily.md",
+    "1_Inbox/Inbox.md",
     "0_Inbox/Inbox.md",
-    "5_MOCs/Physics.md",
     "Welcome.md",
     "5_Archive/Archive.md.md",
     "4_Resources/Resources.md.md",
