@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "430b9b3fc07fbd2a",
+    "type": "split",
+    "children": [
+      {
+        "id": "00b77eee20a1829e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20436e62c068281c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5_MOCs/Physics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physics"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2222454c79e8d920",
+    "type": "split",
+    "children": [
+      {
+        "id": "20925d3820fcdee2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1155cee52b9d34c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "27713a68ecccb45a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d40a9bbe86c235fa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 219.5
+  },
+  "right": {
+    "id": "94796148515958d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "72d30aec1553409c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f90369c6aef346f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5_Archive/Archive.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Archive.md"
+            }
+          },
+          {
+            "id": "1ee93965efeaf7b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5_Archive/Archive.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Archive.md"
+            }
+          },
+          {
+            "id": "0c7ddcde0b76d536",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "752a2823c972ebe9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5_Archive/Archive.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Archive.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "1155cee52b9d34c6",
+  "lastOpenFiles": [
+    "2_Sandbox/numerical_analysis/analysis_II/sandbox/test_1.ipynb",
+    "2_Sandbox/numerical_analysis/analysis_II/sandbox/gaussian_algorithm.ipynb",
+    "2_Sandbox/numerical_analysis/analysis_II/sandbox",
+    "2_Sandbox/numerical_analysis/analysis_II/homework/hw_9.ipynb",
+    "2_Sandbox/numerical_analysis/analysis_II/homework/hw_8.ipynb",
+    "2_Sandbox/numerical_analysis/analysis_II/homework/hw_7.ipynb",
+    "2_Sandbox/numerical_analysis/analysis_II/homework/hw_6.ipynb",
+    "2_Sandbox/numerical_analysis/analysis_II/homework/hw_5.ipynb",
+    "2_Sandbox/numerical_analysis/analysis_II/homework/hw_4.ipynb",
+    "2_Sandbox/numerical_analysis/analysis_II/homework/hw_3.ipynb",
+    "2_Sandbox/numerical_analysis/analysis_II/homework/hw_2.ipynb",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Matrices_Pt2.jpg",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Matrices.jpg",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Layout.jpg",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Gradient.jpg",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Batch_Gradients_Pt3.jpg",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Batch_Gradients_Pt2.jpg",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Softmax_Batch_Gradients.jpg",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Numpy_axis_description.jpg",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Notation_Single_Layer.jpg",
+    "2_Sandbox/machine_learning/concepts/neural_networks/images/Momentum_Visual.jpg",
+    "5_MOCs/Machine Learning.md",
+    "3_Zettlekasten/Zettle.md",
+    "2_Sandbox/SVM.md",
+    "Templates/GoodNotes_Summary.md",
+    "Templates/MOC_Template.md",
+    "Untitled.md",
+    "2_Sandbox/Projects.md",
+    "5_MOCs/MachineLearning.md",
+    "4_Resources/Resources.md",
+    "My_Obsidian/LinkingTips.md",
+    "My_Obsidian/Themes.md",
+    "3_Areas/Areas.md",
+    "1_Daily/Daily.md",
+    "0_Inbox/Inbox.md",
+    "5_MOCs/Physics.md",
+    "Welcome.md",
+    "5_Archive/Archive.md.md",
+    "4_Resources/Resources.md.md",
+    "3_Areas/Areas.md.md",
+    "2_Projects/Projects.md.md",
+    "1_Daily/Daily.md.md",
+    "0_Inbox/Inbox.md.md",
+    "Project.md.md"
+  ]
+}
